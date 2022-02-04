@@ -2,8 +2,7 @@ Bonjour, je suis Mr Electro84
 Passioné par l'informatique et le développement informatique
 
 ### Compétences :
-* Scratch (très bon)
-* Blockly (très bon)
+* Scratch et Blockly (très bon) (c'est anecdotique)
 * Visual Basic .NET (bon)
 * HTML (bon)
 * CSS (moyen)
