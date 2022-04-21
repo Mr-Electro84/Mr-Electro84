@@ -1,7 +1,7 @@
 Bonjour, je suis Mr Electro84
 Passioné par l'informatique et le développement informatique
 
-### Compétences :
+### Compétences
 * Scratch et Blockly (très bon)
 * Visual Basic .NET (bon)
 * HTML (bon)
@@ -13,6 +13,10 @@ Passioné par l'informatique et le développement informatique
 * [Challenge Hopital de Graven](https://github.com/Mr-Electro84/ChallengeHopitalGraven), ma réponse au challenge CSS proposé par [Graven](https://www.youtube.com/c/Gravenilvectuto) (avec un design plus ou moins réussi)
 * [EDIT'HTML](https://github.com/Vapps-Line-std/EDIT-HTML) éditeur HTML simple et open-source
 * [Mathe et matic projector](https://github.com/Vapps-Line-std/mem-projector) fork de [MathsMentales](https://github.com/seb-cogez/mathsmentales), plateformes de calcul mentales en classe
+
+### Statistiques
+![Mr-Electro84's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Electro84&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Electro84&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Mr-Electro84/Mr-Electro84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
