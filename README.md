@@ -16,7 +16,6 @@ Passioné par l'informatique et le développement informatique
 
 ### Statistiques
 ![Mr-Electro84's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Electro84&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Electro84&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Mr-Electro84/Mr-Electro84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
