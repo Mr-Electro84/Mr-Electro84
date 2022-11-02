@@ -2,7 +2,6 @@ Bonjour, je suis Mr Electro84
 Passioné par l'informatique et le développement informatique
 
 ### Compétences
-* Blockly (très bon)
 * Visual Basic .NET (bon)
 * HTML (bon)
 * CSS (moyen)
