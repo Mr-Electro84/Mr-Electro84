@@ -7,7 +7,7 @@ Passioné par l'informatique et le développement informatique
 [![Compétences langages](https://skillicons.dev/icons?i=html,css,sass,dotnet)](https://skillicons.dev)
 
 **Outils :** <br>
-[![Cométences outils](https://skillicons.dev/icons?i=vscode,visualstudio,wordpress,replit,git,github,figma)](https://skillicons.dev)
+[![Cométences outils](https://skillicons.dev/icons?i=vscode,visualstudio,wordpress,replit,github,figma)](https://skillicons.dev)
 
 **En cours d'aprentissage :** <br>
 [![En cours d'aprentissage](https://skillicons.dev/icons?i=py,js,php,cs)](https://skillicons.dev)
