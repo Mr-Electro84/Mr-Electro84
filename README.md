@@ -4,13 +4,13 @@ Passioné par l'informatique et le développement informatique
 
 ### Compétences
 **Langages :** <br>
-[![Compétences langages](https://skillicons.dev/icons?i=html,css,sass,dotnet,py,php)](https://skillicons.dev)
+[![Compétences langages](https://skillicons.dev/icons?i=html,css,sass,dotnet,py,php,bash)](https://skillicons.dev)
 
 **Outils :** <br>
 [![Cométences outils](https://skillicons.dev/icons?i=vscode,visualstudio,wordpress,replit,git,github,figma)](https://skillicons.dev)
 
 **En cours d'aprentissage :** <br>
-[![En cours d'aprentissage](https://skillicons.dev/icons?i=js,cs,bash)](https://skillicons.dev)
+[![En cours d'aprentissage](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
 
 ### Ce que j'ai fait
 * [Challenge Hopital de Graven](https://github.com/Mr-Electro84/ChallengeHopitalGraven), ma réponse au challenge CSS proposé par [Graven](https://www.youtube.com/c/Gravenilvectuto) (avec un design plus ou moins réussi)
