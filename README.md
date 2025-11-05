@@ -10,7 +10,7 @@ Passioné par l'informatique et le développement informatique
 [![Cométences outils](https://skillicons.dev/icons?i=vscode,visualstudio,wordpress,replit,git,github,figma)](https://skillicons.dev)
 
 **En cours d'aprentissage :** <br>
-[![En cours d'aprentissage](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
+[![En cours d'aprentissage](https://skillicons.dev/icons?i=js,cs,c)](https://skillicons.dev)
 
 ### Ce que j'ai fait
 * [Challenge Hopital de Graven](https://github.com/Mr-Electro84/ChallengeHopitalGraven), ma réponse au challenge CSS proposé par [Graven](https://www.youtube.com/c/Gravenilvectuto) (avec un design plus ou moins réussi)
