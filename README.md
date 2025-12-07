@@ -19,7 +19,7 @@ Passioné par l'informatique et le développement informatique
 * [🪦 Projet abandonné] Maths et matic projector fork de [MathsMentales](https://github.com/seb-cogez/mathsmentales), plateformes de calcul mentales en classe
 
 ### Statistiques
-![Mr-Electro84's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Electro84&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mr-Electro84?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!---
 Mr-Electro84/Mr-Electro84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
